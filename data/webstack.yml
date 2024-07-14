@@ -54,9 +54,9 @@
     - title: Seller University
       url: https://sell.amazon.com/learn
       description: Educational resources to help businesses learn how to succeed as Amazon selling partners.
-    - title: Advertising Training
-      url: https://advertising.amazon.com/resources/learning-console
-      description: Helps advertisers gain expertise in Amazon Ads products and services.
+    - title: Advertising
+      url: https://advertising.amazon.com/
+      description: Amazon Ads products and services.
     
 
 - taxonomy: 社区咨询
