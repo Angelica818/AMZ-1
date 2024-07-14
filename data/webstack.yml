@@ -112,35 +112,31 @@
       description: UI设计师学习交流社区
     
 
-- taxonomy: 灵感采集
+- taxonomy: Information
   icon: fa-regular fa-lightbulb
   list: 
-    - term: 发现产品
+    - term: Communities
       links:
-        - title: Producthunt
-          logo: images/logos/producthunt.png
-          url: https://www.producthunt.com/
-          description: 发现新鲜有趣的产品
-        - title: NEXT
-          logo: images/logos/NEXT.png
-          url: https://next.36kr.com/posts
-          description: 不错过任何一个新产品
-        - title: 少数派
-          logo: images/logos/sspai.png
-          url: https://sspai.com/
-          description: 高品质数字消费指南
-        - title: 利器
-          logo: images/logos/liqi.png
-          url: https://liqi.io/
-          description: 创造者和他们的工具
-        - title: Today
-          logo: images/logos/today.png
-          url: http://today.itjuzi.com/
-          description: 为身边的新产品喝彩
-        - title: 小众软件
-          logo: images/logos/appinn.png
-          url: https://faxian.appinn.com/
-          description: 在这里发现更多有趣的应用
+        - title: Reddit
+          logo: 
+          url: https://www.reddit.com/
+          description: A network of communities where people can dive into their interests, hobbies and passions.
+        - title: Quora
+          logo: 
+          url: https://www.quora.com/
+          description: A place to gain and share knowledge.
+        - title: Seller Forums
+          logo: 
+          url: https://sellercentral.amazon.com/seller-forums
+          description: Connect, learn, and find answers.
+        - title: Discord
+          logo: 
+          url: https://discord.com/
+          description: To have community that is dedicated to the same thing.
+        - title: X（Twitter）
+          logo: 
+          url: https://x.com/home
+          description: It's what's happening.
       
     - term: 界面灵感
       links:
@@ -1038,43 +1034,3 @@
       description: 携程设计委员会-Ctrip Design Committee
      
 
-
-
-     
-- taxonomy: 友情链接
-  icon: fa-link
-  friend:
-    - title: 子页面一
-      url: sub1
-      description: 本站子页面1
-    - title: 子页面二
-      url: sub2
-      description: 本站子页面2
-    - title: webstack.cc
-      url: https://webstack.cc
-      description: webstack - 设计师网址导航
-    - title: 一为导航
-      url: https://nav.iowen.cn/
-      description: onenav主题演示站
-    - title: 趣导航
-      url: https://qssily.com/
-    - title: 404导航
-      url: https://www.404dh.icu/
-      description: 只导航优质资源
-    - title: OPENI
-      url: https://openi.cn/
-    - title: 飞猪ai导航
-      url: https://feizhuke.com/
-      description: AI工具集箱
-    - title: bioit导航
-      url: https://www.bioit.top/
-      description:
-    - title: 所长导航
-      url: https://liutongxu.github.io/
-      description:
-    - title: 一为webstack
-      url: https://webstack.iotheme.cn/
-    - title: iplaycode
-      url: https://iplaycode.github.io/nav/
-      description: iplaycode的demo导航网站
----
